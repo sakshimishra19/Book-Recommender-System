@@ -38,5 +38,31 @@ HTML and CSS for designing the user interface of the web application
     web application.
     
     ## Glimpse of my Project 💁🏻‍♀️
-    **Home Page** 
+   **Home Page** 
+    :-------------------------:
+    <img width="500" alt="" src="https://user-images.githubusercontent.com/102748498/224742760-11a68e88-64d3-444c-9c9c-83b1643b945e.png">
+     
+     
+   **Recommend Page**
+   :-------------------------:
+    <img width="500" alt="" src="https://user-images.githubusercontent.com/102748498/224741781-d4c46be2-3247-4b45-bcca-3611c2e9df89.png">
+    
+    
+    
+   **Contact Section** 
+    :-------------------------:
+    <img width="500" alt="" src="https://user-images.githubusercontent.com/102748498/224742110-c5fdbace-afeb-46f3-9744-7647ae2aa213.png">
+    
+    ## Future Scope 🕵️‍♀️
+
+1. Personalization based on user data: 
+   System analyzes user data for personalized book recommendations.
+2. Integration with e-commerce platforms: 
+   System integrates with e-commerce for direct book purchases.
+
+
+## Documents related to project 📑
+
+
+1. [Presentation](https://docs.google.com/presentation/d/1CkF9lDq33V_0XA_PyUfcoAfGddb2DU_0uq_RgZD7dPY/edit?usp=sharing)
 
