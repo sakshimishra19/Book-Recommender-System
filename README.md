@@ -55,11 +55,11 @@ HTML and CSS for designing the user interface of the web application
     
     ## Future Scope 🕵️‍♀️
 
-1. Personalization based on user data: 
-   System analyzes user data for personalized book recommendations.
-2. Integration with e-commerce platforms: 
-   System integrates with e-commerce for direct book purchases.
+   **1.Personalization based on user data:** System analyzes user data for personalized book recommendations.
+   
+   **2. Integration with e-commerce platforms:** System integrates with e-commerce for direct book purchases.
 
+   
 
 ## Documents related to project 📑
 
